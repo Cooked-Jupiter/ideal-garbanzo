@@ -1,0 +1,28 @@
+{
+  "name": "hummuzon",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cooked-Jupiter/ideal-garbanzo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cooked-Jupiter/ideal-garbanzo/issues"
+  },
+  "homepage": "https://github.com/Cooked-Jupiter/ideal-garbanzo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-plugin-react": "^7.26.1",
+    "nodemon": "^2.0.13"
+  }
+}
