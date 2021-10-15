@@ -17,7 +17,6 @@ const data = {
     ],
     products: [
         {
-            _id:'1',
             name: 'Sprouts',
             category:'Hummus',
             image:'/images/p1.jpg',
@@ -29,7 +28,6 @@ const data = {
             description: 'Delicious hummus',
         },
         {
-            _id:'2',
             name: 'Whole Foods',
             category:'Hummus',
             image:'/images/p2.jpg',
@@ -41,7 +39,6 @@ const data = {
             description: 'Mediocre hummus',
         },
         {
-            _id:'3',
             name: 'Target',
             category:'Hummus',
             image:'/images/p1.jpg',
@@ -53,8 +50,7 @@ const data = {
             description: 'Target hummus',
         },
         {
-            _id:'4',
-            name: 'Sprouts',
+            name: 'Pirate O\'s',
             category:'Hummus',
             image:'/images/p1.jpg',
             price: 120,
@@ -65,8 +61,7 @@ const data = {
             description: 'Delicious hummus',
         },
         {
-            _id:'5',
-            name: 'Sprouts',
+            name: 'World Market',
             category:'Pirate-Os',
             image:'/images/p1.jpg',
             price: 6,
@@ -77,8 +72,7 @@ const data = {
             description: 'Delicious hummus',
         },
         {
-            _id:'6',
-            name: 'Sprouts',
+            name: 'Harmon\'s',
             category:'Hummus',
             image:'/images/p1.jpg',
             price: 2.40,
